@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YoddhaSMP33.aternos.me:16533",
+    "ip": "YoddhaSMP33.aternos.me",
     "port": 16533,
     "version": "1.21.1"
   },
