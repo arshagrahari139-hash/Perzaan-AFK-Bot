@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Godxarshgamerr",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "YoddhaMC.aternos.me",
+    "ip": "YoddhaSMP33.aternos.me:16533",
     "port": 16696,
     "version": "1.21.1"
   },
